@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launchers.png",
+        "source": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launchers.png"
+    },
+    {
+        "merged": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ola.raven.MainActivity">
+
+    <item
+        android:id="@+id/stolen"
+        android:orderInCategory="100"
+        android:title="Report Stolen Phone"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/misplaced"
+        android:orderInCategory="200"
+        android:title="Report Stolen Phone"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_my_location_black_48dp.png",
+        "source": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\src\\main\\res\\drawable-hdpi\\ic_my_location_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_alert.png",
+        "source": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\src\\main\\res\\drawable-hdpi\\ic_action_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_location.png",
+        "source": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\src\\main\\res\\drawable-hdpi\\ic_action_location.png"
+    },
+    {
+        "merged": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_more.png",
+        "source": "C:\\Users\\hopeSMART\\AndroidStudioProjects\\Raven\\app\\src\\main\\res\\drawable-hdpi\\ic_action_more.png"
+    }
+]
